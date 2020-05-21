@@ -1,1 +1,1 @@
-# test-gitHub-repository
+Android cryptography sample code.
